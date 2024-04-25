@@ -18,5 +18,5 @@ Describe what is the difference between test Case and Checklist, in which case i
 
 ## Applications for testing:
 
-- [CloudNotepad](https://play.google.com/store/apps/details?id=com.devproject.miguelfagundez.cloudnotepad&hl=en&gl=US)
+- [Notion](https://www.notion.so)
 - [Telegram](https://web.telegram.org)
