@@ -2,11 +2,11 @@
 
 Here are eight hypothetical defects that could occur in the ... application, described in detail. 
 
-- [Defect_01]()
-- [Defect_02]()
-- [Defect_03]()
-- [Defect_04]()
-- [Defect_05]()
-- [Defect_06]()
-- [Defect_07]()
-- [Defect_08]()
+- [Defect_01](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task4/Defects/defect_01.md)
+- [Defect_02](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task4/Defects/defect_02.md)
+- [Defect_03](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task4/Defects/defect_03.md)
+- [Defect_04](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task4/Defects/defect_04.md)
+- [Defect_05](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task4/Defects/defect_05.md)
+- [Defect_06](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task4/Defects/defect_06.md)
+- [Defect_07](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task4/Defects/defect_07.md)
+- [Defect_08](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task4/Defects/defect_08.md)
