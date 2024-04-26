@@ -1,5 +1,7 @@
 # Test Strategy Document for Notion-Like Application
 
+[![Made by Adam Cegiełka](https://img.shields.io/badge/made%20by%20-Adam%20Cegielka-blue.svg?style=flat-square)](https://adamcegielka.pl)
+
 <br>
 
 ## 1.0 DOCUMENT VERSION
