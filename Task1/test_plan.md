@@ -8,6 +8,8 @@
 ### 1.2 Version:
 - 1.0
 
+<br>
+
 ## 2.0 INTRODUCTION 
 ### 2.1 Objective:
 - To ensure the application performs flawlessly across Mobile, Web, and Desktop platforms for core functionalities including note creation, editing, and syncing.
@@ -18,10 +20,14 @@
 ### 2.4 Resource and Budget Constraints:
 - Allocated budget and resources are limited to two QA teams across three platforms with a timeline of 8 weeks.
 
+<br>
+
 ## 3.0 TEST ITEMS
 - Mobile Applications (iOS, Android)
 - Web Application (Chrome, Firefox, Safari, Edge)
 - Desktop Applications (Windows, macOS)
+
+<br>
 
 ## 4.0 FEATURES TO BE TESTED
 - Creating, editing, and deleting notes.
@@ -29,9 +35,13 @@
 - User authentication and authorization.
 - Data backup and recovery mechanisms.
 
+<br>
+
 ## 5.0 FEATURES NOT TO BE TESTED
 - Third-party integrations (e.g., plugins not developed by the core team).
 - Older versions of browsers and operating systems not supported by the app.
+
+<br>
 
 ## 6.0 APPROACH
 ### 6.1 Data Sources:
@@ -41,17 +51,25 @@
 ### 6.3 Outputs:
 - Test outputs include execution reports and defect logs.
 
+<br>
+
 ## 7.0 ITEM PASS/FAIL CRITERIA
 - All critical functionalities must perform as expected without defects.
 - Performance benchmarks (e.g., load times, response times) must be within acceptable limits.
 
+<br>
+
 ## 8.0 SUSPENSION CRITERIA
 - Major defects in critical features (e.g., data loss, failure to synchronize notes) will result in suspension of testing until resolved.
+
+<br>
 
 ## 9.0 TEST DELIVERABLES
 - Test cases and scripts
 - Test report
 - Issue log
+
+<br>
 
 ## 10.0 TESTING TASKS
 - Set up testing environments.
@@ -59,11 +77,15 @@
 - Execute test cases.
 - Report issues and re-test after fixes.
 
+<br>
+
 ## 11.0 ENVIRONMENTAL NEEDS
 ### 11.1 Software:
 - Specific OS versions, browsers, and mobile devices.
 ### 11.2 Hardware:
 - Servers for backend simulations and mobile devices for testing apps.
+
+<br>
 
 ## 12.0 RESPONSIBILITIES
 ### 12.1 QA Managers:
@@ -73,9 +95,13 @@
 ### 12.3 Developers:
 - Address reported issues and collaborate with testers.
 
+<br>
+
 ## 13.0 STAFFING NEEDS
 - Training on the latest testing tools and methodologies for the QA team.
 - Special sessions on cross-platform testing techniques.
+
+<br>
 
 ## 14.0 SCHEDULE
 ### 14.1 Preparation Phase:
@@ -87,9 +113,13 @@
 ### 14.4 Final Review and Closure:
 - End of Week 8
 
+<br>
+
 ## 15.0 RISKS
 - Inadequate test coverage due to time constraints.
 - Device and browser diversity might lead to unexpected bugs.
+
+<br>
 
 ## 16.0 APPROVALS
 - **Project Manager**:  
