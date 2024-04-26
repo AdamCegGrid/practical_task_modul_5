@@ -16,9 +16,9 @@
 ### 2.2 Scope:
 - Testing will cover all key functionalities of the application with specific focus on usability, performance, and cross-platform compatibility.
 ### 2.3 Goals:
-- Achieve a high degree of user satisfaction and minimal post-deployment issues.
+- To achieve a high degree of user satisfaction and minimal post-deployment issues.
 ### 2.4 Resource and Budget Constraints:
-- Allocated budget and resources are limited to two QA teams across three platforms with a timeline of 8 weeks.
+- Limited to two QA teams across three platforms within an 8-week timeline.
 
 <br>
 
@@ -50,6 +50,8 @@
 - Critical features like note synchronization and data integrity will be prioritized.
 ### 6.3 Outputs:
 - Test outputs include execution reports and defect logs.
+### 6.4 Testing Tools:
+- Jira for bug tracking, Appium for mobile testing.
 
 <br>
 
