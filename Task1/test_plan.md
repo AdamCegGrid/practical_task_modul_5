@@ -93,10 +93,13 @@
 
 ## 16.0 APPROVALS
 - **Project Manager**:  
-<br>
+<br>  
+
 *[Signature]*
+
 <br>
 
 - **Lead QA Manager**:  
 <br>
+
 *[Signature]*
