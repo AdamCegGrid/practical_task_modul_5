@@ -25,9 +25,9 @@
 <br>
 
 ## 3.0 TEST ITEMS
-- Mobile Applications (iOS, Android)
-- Web Application (Chrome, Firefox, Safari, Edge)
-- Desktop Applications (Windows, macOS)
+- Mobile Applications (`iOS`, `Android`)
+- Web Application (`Chrome`, `Firefox`, `Safari`, `Edge`)
+- Desktop Applications (`Windows`, `macOS`)
 
 <br>
 
@@ -53,7 +53,8 @@
 ### 6.3 Outputs:
 - Test outputs include execution reports and defect logs.
 ### 6.4 Testing Tools:
-- Jira for bug tracking, Appium for mobile testing.
+- [Jira](https://www.atlassian.com/software/jira) for bug tracking
+- [Appium](https://appium.io/docs/en/latest/) for mobile testing.
 
 <br>
 
