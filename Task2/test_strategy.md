@@ -1,4 +1,4 @@
-# Test Strategy Document for Notion-Like Application
+# Test Strategy Document for Notion Application
 
 [![Made by Adam Cegiełka](https://img.shields.io/badge/made%20by%20-Adam%20Cegielka-blue.svg?style=flat-square)](https://adamcegielka.pl)
 
@@ -16,7 +16,7 @@
 ## 2.0 INTRODUCTION
 
 ### 2.1 Goal: 
-The goal of this Test Strategy document is to outline the general approach and guidelines for testing the Notion-like application across Mobile, Web, and Desktop environments. The application enables users to create, edit, and manage text notes.
+The goal of this Test Strategy document is to outline the general approach and guidelines for testing the Notion application across Mobile, Web, and Desktop environments. The application enables users to create, edit, and manage text notes.
 
 <br>
 
@@ -57,15 +57,15 @@ The testing will cover all functionalities related to note management (creation,
 ## 6.0 TESTING TOOLS
 
 ### 6.1 Automation Tools:
-- Selenium for web
-- Appium for mobile
+- [Playwright](https://playwright.dev/) for web
+- [Appium](https://appium.io/docs/en/latest/) for mobile
 ### 6.2 Performance Tools:
-- JMeter
+- [JMeter](https://jmeter.apache.org/)
 ### 6.3 Security Tools:
-- OWASP ZAP
+- [OWASP ZAP](https://www.zaproxy.org/)
 ### 6.4 Management Tools:
-- JIRA for tracking issues
-- Confluence for documentation
+- [JIRA](https://www.atlassian.com/software/jira) for tracking issues
+- [Confluence](https://www.atlassian.com/software/confluence) for documentation
 
 <br>
 
