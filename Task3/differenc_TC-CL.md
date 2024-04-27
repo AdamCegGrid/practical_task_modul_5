@@ -14,4 +14,4 @@ A simpler, high-level document used for quick reviews and audits. It does not in
 
 ## [When we use a Checklist](#)
 
-Checklists are ideal during the later stages of development or during maintenance when the application is stable and major functionalities are already tested and fixed. They are used for quick rounds of testing to ensure that the most critical functions of the application are still performing as expected after changes or updates.
+> **Checklists are ideal during the later stages of development or during maintenance when the application is stable and major functionalities are already tested and fixed. They are used for quick rounds of testing to ensure that the most critical functions of the application are still performing as expected after changes or updates.**
