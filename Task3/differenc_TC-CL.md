@@ -6,12 +6,14 @@
 
 ## Test Case: 
 
-Provides specific steps to verify a particular function of the app. It includes setup, input, action, and expected result. Test cases are detailed and are useful in both manual and automated testing.
+- Test cases provide detailed, step-by-step instructions to validate specific functionalities of an application, including expected results.
+- They are essential for systematic verification of software requirements and are typically used in formal testing processes.
 
 ## Checklist: 
 
-A simpler, high-level document used for quick reviews and audits. It does not include detailed steps but is a list of items or features to check. Checklists are best used for sanity checks, quick regression, and smoke testing when detailed validation is not required.
+- Checklists outline general tasks or items to be reviewed, offering a high-level overview without detailed steps.
+- They are ideal for quick checks to ensure all essential components are tested, suitable for informal or rapid testing scenarios.
 
-## [When we use a Checklist](#)
+## [Difference Between Them](#)
 
-> **Checklists are ideal during the later stages of development or during maintenance when the application is stable and major functionalities are already tested and fixed. They are used for quick rounds of testing to ensure that the most critical functions of the application are still performing as expected after changes or updates.**
+> **Test cases are used for detailed, specific testing, ensuring thorough coverage and adherence to requirements. Checklists are flexible tools used for broader, quicker checks, ensuring that no critical areas are overlooked during the testing process.**
