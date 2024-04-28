@@ -1,5 +1,9 @@
 # QA Training Documentation
 
+[![Made by Adam Cegiełka](https://img.shields.io/badge/made%20by%20-Adam%20Cegielka-blue.svg?style=flat-square)](https://adamcegielka.pl) <br>
+[![Telegram](https://img.shields.io/badge/Testing%20App-Telegram-24A1DE.svg?logo=telegram)](https://web.telegram.org)
+[![Notion](https://img.shields.io/badge/Testing%20App-Notion-000000.svg?logo=notion)](https://www.notion.so)
+
 This repository is a homework assignment for the QA Engineer internship program. It includes various documents designed to simulate the real-world application of QA methodologies and practices across multiple platforms, such as Mobile, Web and Desktop.
 
 ## Homework
