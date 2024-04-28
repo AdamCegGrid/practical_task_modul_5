@@ -1,6 +1,7 @@
 # Test Strategy Document for Notion Application
 
 [![Made by Adam Cegiełka](https://img.shields.io/badge/made%20by%20-Adam%20Cegielka-blue.svg?style=flat-square)](https://adamcegielka.pl)
+[![Notion](https://img.shields.io/badge/Testing%20App-Notion-000000.svg?logo=notion)](https://www.notion.so)
 
 <br>
 
