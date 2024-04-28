@@ -18,7 +18,7 @@ Test cases for the Telegram mobile app, including both positive and negative sce
 - [TC_06: Send a message when there is no internet connection](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task3/Test-Cases/TC06.md)
 04. Group Chat Creation
 - [TC_07: Create a group chat with multiple selected contacts](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task3/Test-Cases/TC07.md)
-- [TC_08: Try to create a group without selecting any contacts](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task3/Test-Cases/TC08.md)
+- [TC_08: Create a group without selecting any contacts](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task3/Test-Cases/TC08.md)
 05. Voice Call
 - [TC_09: Initiate a voice call to a single contact](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task3/Test-Cases/TC09.md)
 - [TC_10: Attempt a voice call without microphone permissions](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task3/Test-Cases/TC10.md)
