@@ -40,6 +40,3 @@ Test cases for the Telegram mobile app, including both positive and negative sce
 11. Message Deletion
 - [TC_21: Delete a sent message from both ends within the allowed time frame](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task3/Test-Cases/TC21.md)
 - [TC_22: Try to delete a message that was sent more than 48 hours ago](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task3/Test-Cases/TC22.md)
-12. Two-step Verification
-- [TC_23: Set up two-step verification successfully](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task3/Test-Cases/TC23.md)
-- [TC_24: Enter incorrect password while setting up two-step verification](https://github.com/AdamCegGrid/practical_task_modul_5/blob/main/Task3/Test-Cases/TC24.md)
