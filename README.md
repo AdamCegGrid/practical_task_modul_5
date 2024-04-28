@@ -18,7 +18,7 @@ This repository is a homework assignment for the QA Engineer internship program.
     - *Prepare checklist for testing mobile app - Telegram.*  
     - *Describe what is the difference between Test Case and Checklist, in which case is it better to use a Checklist?*
 - [Task4](https://github.com/AdamCegGrid/practical_task_modul_5/tree/main/Task4) - [**Errors/ Defect/ Failures & priority and Defect and Bug life cycle:**](https://github.com/AdamCegGrid/practical_task_modul_5/tree/main/Task4)  
-    - *Create 8 defects with a full description, add screenshots if possible.*
+    - *Create 8 defects for Telegram app with a full description, add screenshots if possible.*
     - *Explain the Bug Life Cycle.*
 
 ## Applications for testing:
