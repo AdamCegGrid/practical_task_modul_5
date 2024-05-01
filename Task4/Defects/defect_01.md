@@ -13,7 +13,7 @@
 | 4 | Preconditions: | User is logged in, app is updated to the latest version, user has at least one contact available |
 | 5 | Steps for reproduction | 1. Open Telegram<br>2. Navigate to Contacts<br>3. Tap on a contact to open chat details<br>4. Press the voice call button |
 | 6 | Expected Result: | Voice call is initiated without issues |
-| 7 | Actual Result: | App crashes and closes abruptly after pressing the voice call button |
+| 7 | Actual Result: | App crashes and closes abruptly after pressing the voice call button.<br>Error `Code: E1001` (AudioServiceException - Failed to initiate audio stream). Detailed logs indicate a failure in accessing the audio service required for the call.  |
 | 8 | Attachment: | `Screenshot of the crash moment` |
 | 9 | Severity: | Critical  |
 | 10 | Priority: | High |
