@@ -13,7 +13,7 @@
 | 4 | Preconditions: | User is logged in, translation feature is enabled in settings |
 | 5 | Steps for reproduction | 1. Open Telegram<br>2. Receive a message in a foreign language (e.g., Spanish)<br>3. Tap on the message<br>4. Select 'Translate' from the options |
 | 6 | Expected Result: | The message should be translated into the user’s default language (e.g., English) and displayed correctly. |
-| 7 | Actual Result: | The translation feature does not activate; the message remains in the original language without any indication of translation attempt. |
+| 7 | Actual Result: | The translation feature does not activate; the message remains in the original language without any indication of translation attempt.<br>Error `Code: T4010` (TranslationServiceError - Failed to invoke translation service). |
 | 8 | Attachment: | `Screenshot of the crash moment` |
 | 9 | Severity: | Medium |
 | 10 | Priority: | Medium |
