@@ -13,7 +13,7 @@
 | 4 | Preconditions: | User is logged in, app is updated to the latest version |
 | 5 | Steps for reproduction | 1. Open Telegram<br>2. Tap on the search bar at the top of the chats screen<br>3. Enter a search term that includes special characters (e.g., "@JohnDoe_#!") |
 | 6 | Expected Result: | The app should either return search results containing the special characters or display a message stating no results found.  |
-| 7 | Actual Result: | The app crashes, or a loading error occurs, failing to return any search results. |
+| 7 | Actual Result: | The app crashes, or a loading error occurs, failing to return any search results.<br>Error `Code: S4050` (SearchFunctionException - Invalid character error). |
 | 8 | Attachment: | `Screenshot of the crash moment` |
 | 9 | Severity: | Medium |
 | 10 | Priority: | Medium |
