@@ -21,7 +21,9 @@
 ### 2.3 Goals:
 - To achieve a high degree of user satisfaction and minimal post-deployment issues.
 ### 2.4 Resource and Budget Constraints:
-- Limited to two QA teams across three platforms within an 8-week timeline.
+- **Personnel:** 10 QA Engineers (4 for Mobile, 3 for Web, 3 for Desktop)
+- **Budget:** Allocated budget of $120,000 to cover personnel costs, software licenses, and necessary hardware.
+- **Timeline:** 8 weeks from setup to closure.
 
 <br>
 
