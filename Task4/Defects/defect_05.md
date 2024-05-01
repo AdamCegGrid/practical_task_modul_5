@@ -13,7 +13,7 @@
 | 4 | Preconditions: | User is logged in, system time is correctly set |
 | 5 | Steps for reproduction | 1. Open Telegram<br>2. Send a message to any contact<br>3. Observe the timestamp next to the sent message |
 | 6 | Expected Result: | The timestamp should correctly reflect the time the message was sent, based on the system's clock |
-| 7 | Actual Result: | Messages show a timestamp that is several hours ahead of the actual time |
+| 7 | Actual Result: | Messages show a timestamp that is several hours ahead of the actual time.<br>Error `Code: T3025` (TimestampError - System clock synchronization issue). |
 | 8 | Attachment: | `Screenshot of the crash moment` |
 | 9 | Severity: | Medium |
 | 10 | Priority: | Medium |
