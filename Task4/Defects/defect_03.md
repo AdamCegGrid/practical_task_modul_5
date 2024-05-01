@@ -13,7 +13,7 @@
 | 4 | Preconditions: | User is logged in, app is updated to the latest version |
 | 5 | Steps for reproduction | 1. Open Telegram<br>2. Go to Settings<br>3. Tap on 'Change Profile Picture'<br>4. Select a JPG image from the device storage<br>5. Attempt to upload the selected image |
 | 6 | Expected Result: | The profile picture is updated to the new JPG image without any issues |
-| 7 | Actual Result: | The app fails to upload the JPG image, displaying an error message "Upload Failed" |
+| 7 | Actual Result: | The app fails to upload the JPG image, displaying an error message "Upload Failed."<br>Error `Code: U1501` (UploadServiceException - Image format not supported or corrupt). |
 | 8 | Attachment: | `Screenshot of the crash moment` |
 | 9 | Severity: | Medium |
 | 10 | Priority: | Medium |
