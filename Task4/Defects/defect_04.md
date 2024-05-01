@@ -13,7 +13,7 @@
 | 4 | Preconditions: | User is logged in, app is updated to the latest version |
 | 5 | Steps for reproduction | 1. Open Telegram<br>2. Open any chat<br>3. Tap on the emoticon icon to bring up the emoticon panel<br>4. Try to select any emoticon to add it to the message entry field |
 | 6 | Expected Result: | The selected emoticon should appear in the message entry field |
-| 7 | Actual Result: | Emoticons do not appear in the message entry field when selected; the field remains blank |
+| 7 | Actual Result: | Emoticons do not appear in the message entry field when selected; the field remains blank. No error messages displayed, suggesting a UI malfunction |
 | 8 | Attachment: | `Screenshot of the crash moment` |
 | 9 | Severity: | Low |
 | 10 | Priority: | Medium |
